@@ -1,6 +1,6 @@
 # Projeto de aplicação de gerenciamento de fotos -  no lado do front end. Utilizando angular na versao 6.0.7.
 
-#para que possamos utilizá-la, é necessária a instalação de algumas ferramentas
+Para que possamos utilizá-la, é necessária a instalação de algumas ferramentas:
 
  1 - Instalar plataforma "Node.js 8"
 
@@ -13,3 +13,9 @@
  4 - Na pasta do projeto, instalar as dependencias dele através do comando:
 
   npm i 
+  
+ 5 - subir o projeto no servidor local: 
+ 
+ ng serve --open
+ 
+ 
